@@ -1,4 +1,4 @@
-# Kelvin
+# Kelvin Jang
 # 2019/07/15
 # QI IoT 2019 Summer
 # Moon Lander Game
